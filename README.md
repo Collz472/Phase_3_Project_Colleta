@@ -9,3 +9,9 @@ To combat this pandemic, an H1N1 vaccine was made available in October 2009.
 The United States National 2009 H1N1 Flu Survey, conducted in late 2009 and early 2010, collected data on vaccination uptake for both H1N1 and seasonal flu. 
 The survey explored respondents’ vaccination status alongside information about their socioeconomic and demographic backgrounds, health behaviors, and opinions on vaccine efficacy and illness risk. 
 This project therefore seeks to guide furture public health strategies by providing valuable insights into the factors influencing the vaccination patterns through a thorough analysis of the dataset provided.
+## **Problem Statement**
+
+Understanding the factors that influence vaccination decisions is essential for designing effective public health campaigns. 
+Despite the availability of vaccines for the H1N1 and seasonal flu, uptake rates varied significantly among different population groups. 
+The challenge lies in identifying and analyzing the individual and social factors that determine vaccine adoption, which is critical for improving vaccination rates and achieving herd immunity during pandemics.
+
