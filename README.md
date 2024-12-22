@@ -1,4 +1,4 @@
-# **Predicting H1N1 and Seasonal Flu Vaccination Uptake**
+# **Predicting Seasonal Flu Vaccination Uptake**
 ## **Project Background**
 
 Vaccination is a critical public health intervention for controlling and preventing the spread of infectious diseases. 
