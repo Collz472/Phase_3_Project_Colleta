@@ -39,7 +39,7 @@ The target dataset contains 26707 rows and 3 columns.
 The data was then cleaned and some columns were removed as needed.
 To investigate the factors influencing individuals’ decisions to receive the H1N1 and seasonal flu vaccines using data on their backgrounds, health behaviors, and opinions, with the goal of informing public health strategies to enhance vaccine uptake.
 ### **Modelling**
-There are four main moddels that were used in this project:
+There are four main models that were used in this project:
 
 Logistic Regression;
 Decision trees;
@@ -48,6 +48,8 @@ XGBoost Algorithim.
 
 ## **Model Evaluation Summary**
 The Random Forest Model (best_model3) has demonstrated commendable performance in predicting the uptake of the seasonal flu vaccine. It has strong evaluation metrics and an ROC curve with strong discriminatory power. A better balance on the data may give more promising results.
+![all models roc curve](images copy/ROC_curve.png)
+
 
 ## **Recommendations**
 Embrace personalized outreach as a campaign tool so as to target individuals and mould their perception towards immunization.
